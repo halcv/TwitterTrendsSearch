@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Twitterトレンド</string>
+    <string name="getButton">トレンド更新</string>
+    <string name="getTrendsError">トレンド情報が取得できませんでした。</string>
+	<string name="getTwitError">ツイートが取得できませんでした。</string>
+    <string name="getTrends">トレンド取得中</string>
+    <string name="getTwit">ツイート取得中</string>
+    <string name="trendsURL">http://api.twitter.com/1/trends/23424856.json</string>
+    <string name="twitURL1">http://search.twitter.com/search.json?q=</string>
+    <string name="twitURL2">&amp;rpp=100&amp;page=1</string>
+    <string name="back">戻る</string>
+    <string name="update">ツイート更新</string>
+    <string name="search">検索</string>
+    <string name="hint">検索したい言葉は？</string>
+    <string name="noSearch">言葉が入力されていません。</string>
+    <string name="image">image</string>
+</resources>
